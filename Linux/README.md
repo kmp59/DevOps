@@ -51,3 +51,7 @@
 <img width="691" alt="df" src="https://user-images.githubusercontent.com/37663573/73116410-c1607f80-3f03-11ea-9f52-6f47a5150c77.png">
 
 > **sudo netstat -tulnp | Grep LISTEN** : To list all application's with their port numbers
+
+
+![Tulnp](https://user-images.githubusercontent.com/37663573/73209589-871afc00-4116-11ea-96dc-eb9fdd5e1937.jpg)
+
