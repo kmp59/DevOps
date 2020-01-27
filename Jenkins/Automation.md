@@ -32,3 +32,9 @@ add the following lines to the file after **<tomcat-users>**
 > in the Tomcat server to see the deployed application,
 
 **Go to Admin page, and it will be in the applications table**
+
+.![Tomcat_Manager_window](https://user-images.githubusercontent.com/37663573/73210381-2a204580-4118-11ea-8ad5-1a3620f5c085.jpg)
+
+![Tomcat_Applications](https://user-images.githubusercontent.com/37663573/73210423-445a2380-4118-11ea-9ace-0d44885f94dc.jpg)
+
+![GameOfLifeApp](https://user-images.githubusercontent.com/37663573/73210451-53d96c80-4118-11ea-8764-0ffbc50c794d.jpg)
