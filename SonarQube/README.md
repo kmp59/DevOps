@@ -1,7 +1,8 @@
 > Install Java JDK 11 on SonarQube machine
 
 > **sudo amazon-linux-extras install java-openjdk11**
-//////////////////////////////////////////
+
+///////////////////[[OR]]///////////////////////
 
 > **sudo yum install java-1.8.0-openjdk**
 
