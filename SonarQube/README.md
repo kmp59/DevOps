@@ -2,6 +2,7 @@
 
 > **sudo amazon-linux-extras install java-openjdk11**
 //////////////////////////////////////////
+
 > **sudo yum install java-1.8.0-openjdk**
 
 Check Java Version by:
