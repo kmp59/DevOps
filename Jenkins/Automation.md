@@ -12,6 +12,12 @@ add the following lines to the file after **<tomcat-users>**
 
 > Now, go to the jenkins project configuration
 
+![Git1](https://user-images.githubusercontent.com/37663573/73498424-4b3c9c80-438b-11ea-8b84-1394c5bbda5a.png)
+
+![Git2](https://user-images.githubusercontent.com/37663573/73498422-4b3c9c80-438b-11ea-9364-26a08cb433dd.png)
+
+![Build](https://user-images.githubusercontent.com/37663573/73498423-4b3c9c80-438b-11ea-8c95-1fff2da0a1f7.png)
+
 > Go to **Post Build Action**
 
 > **choose: Deploy WAR/EAR to a container**
@@ -20,6 +26,10 @@ add the following lines to the file after **<tomcat-users>**
                         **I.E. **/target/*.war***
 
 > For containers choose: **Tomcat 7.x**
+
+![PostBuild](https://user-images.githubusercontent.com/37663573/73498312-f436c780-438a-11ea-990b-b855dc5c7caf.jpg)
+
+![Tomcat](https://user-images.githubusercontent.com/37663573/73498349-1af4fe00-438b-11ea-875c-fc3a8589574f.png)
 
 > In the container Specify your Tomcat Server Address
 
