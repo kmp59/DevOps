@@ -46,3 +46,8 @@
 **docker stop <container ID>** *: to stop a container*
 
 ![dockerStop](https://user-images.githubusercontent.com/37663573/73585753-34bd4080-4472-11ea-9ca5-4d99e2cb0373.png)
+
+
+**ps -ef | grep docker** *: to get container TCP address*
+
+**sudo docker run hello-world** *: Hello World for Docker*
