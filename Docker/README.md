@@ -37,6 +37,12 @@
 
 **docker exec -it <containerID> bash** *: to access the docker container using bash terminal*
 
+![Dockerexec](https://user-images.githubusercontent.com/37663573/73585748-27a05180-4472-11ea-8851-eb02381fd717.png)
+
 **docker rm -f $(sudo docker ps -a -q)** *: to remove all the docker container running and not running*
 
+![RemovingAll](https://user-images.githubusercontent.com/37663573/73585741-18210880-4472-11ea-807f-da049d94a77d.png)
+
 **docker stop <container ID>** *: to stop a container*
+
+![dockerStop](https://user-images.githubusercontent.com/37663573/73585753-34bd4080-4472-11ea-9ca5-4d99e2cb0373.png)
