@@ -31,6 +31,12 @@
 
 ![updatedImages](https://user-images.githubusercontent.com/37663573/73585146-37b53280-446c-11ea-9697-f99ae3a05f6f.png)
 
-**sudo docker run -it ubuntu** *: to run the ubuntu image in a container*
+**sudo docker run -itd ubuntu** *: to run the ubuntu image in a container*
 
 ![Run](https://user-images.githubusercontent.com/37663573/73585149-44398b00-446c-11ea-9d8c-86098a261ed7.png)
+
+**docker exec -it <containerID> bash** *: to access the docker container using bash terminal*
+
+**docker rm -f $(sudo docker ps -a -q)** *: to remove all the docker container running and not running*
+
+**docker stop <container ID>** *: to stop a container*
