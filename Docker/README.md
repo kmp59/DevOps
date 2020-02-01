@@ -1,4 +1,4 @@
-**sudo yum update** *:update your Machine first using *
+**sudo yum update** *:update your Machine first using*
 
 **sudo yum install docker** *:to install docker*
 
