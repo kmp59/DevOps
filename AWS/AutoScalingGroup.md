@@ -58,4 +58,6 @@
 
 **If you already have Load Balancer for your app go to edit details add load balancer in classic load balancer**
 
+![Image 024](https://user-images.githubusercontent.com/37663573/73901185-0cfa1e00-4860-11ea-8664-ee7000a9a653.png)
+
 **If you don't have load balancer created, then go to <a href="https://github.com/kmp59/DevOps/blob/master/AWS/LoadBalancer.md">Load Balancer </a>and create a new one**
