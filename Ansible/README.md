@@ -1,6 +1,10 @@
 **sudo pip3 install ansible** *: To install Ansible in master machine**
 
+![Image 003](https://user-images.githubusercontent.com/37663573/73991975-b5b98380-491b-11ea-8bda-ce31d55cd2d6.png)
+
 **ansible --version** *: To check the version of ansible*
+
+![Image 004](https://user-images.githubusercontent.com/37663573/73991983-bd792800-491b-11ea-9f3f-31438007101e.png)
 
 **ansible all -m hostname** *: To see all connected nodes**
 
