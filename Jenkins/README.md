@@ -51,7 +51,7 @@ You will get your administrator password, copy and paste it in the website, and 
 
 **Go to slave machine in ssh**
 
-**wget <URL to agent.jar>
+**wget <URL to agent.jar>**
 
 **Copy the run command from your dashboard and run it in the ssh**
 
