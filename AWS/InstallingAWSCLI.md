@@ -21,3 +21,11 @@
 **pip3 list -o** *:list all services available with aws*
 
 ![Image 006](https://user-images.githubusercontent.com/37663573/73903423-163ab900-4867-11ea-9460-3b0293c98be4.png)
+
+**sudo pip3 install aws** *To install AWS Services*
+
+![Image 001](https://user-images.githubusercontent.com/37663573/73992095-0cbf5880-491c-11ea-8394-58edfdeffca0.png)
+
+**aws iam get-user** *To list properties of current IAM user*
+
+![Image 002](https://user-images.githubusercontent.com/37663573/73992097-0e891c00-491c-11ea-9098-58db0d14cbad.png)
