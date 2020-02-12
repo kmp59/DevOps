@@ -7,3 +7,4 @@
 <h3>6. <a href="https://github.com/kmp59/DevOps/tree/master/SonarQube"> SonarQube </a></h3>
 <h3>7. <a href="https://github.com/kmp59/DevOps/tree/master/Docker"> Docker </a></h3>
 <h3>8. <a href="https://github.com/kmp59/DevOps/tree/master/Ansible"> Ansible </a></h3>
+<h3>8. <a href="https://github.com/kmp59/DevOps/tree/master/Terraform"> Terraform </a></h3>
