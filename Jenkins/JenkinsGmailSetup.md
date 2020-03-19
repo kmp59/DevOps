@@ -10,15 +10,15 @@
 
 **check Use SMTP authentication**
 
-**Username: <Your email>**
+**Username: Your email**
 
-**Password: <Your email password>**
+**Password: Your email password**
 
 **Check Use SSL**
 
 **SMTP Port: 465 (with ssl checked) 587 (only with TLS)**
 
-**Reply- To address: <Your email>**
+**Reply- To address: Your email**
 
 **Charset: UTF-8**
 
