@@ -112,3 +112,13 @@ You will get your administrator password, copy and paste it in the website, and 
 **Output of the App in tomcat**
 
 ![Screenshot from 2020-02-07 11-38-50](https://user-images.githubusercontent.com/37663573/74051300-aed75300-49a5-11ea-9d1c-e9cdaeced69b.png)
+
+**To find correct plugins for Jenkins : https://plugins.jenkins.io**
+
+**Some basic plugins we need: Maven and Java, MS Build (if you are running on windows), Github, AWS, Docker, SonarQube**
+
+**To change port for Tomcat server **
+
+**sudo vim /etc/tomcat/server.xml**
+
+**Change ConnectorPort setting to Port of your choice**

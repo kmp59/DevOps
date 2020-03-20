@@ -2,6 +2,14 @@
 
 ![Image 003](https://user-images.githubusercontent.com/37663573/73600134-3e01e800-451a-11ea-9727-f51df0cd4bd7.png)
 
+**sudo vim /etc/sysconfig/docker**
+
+**Add this line to the file : OPTIONS"-H tcp"//<privateIP>:2376 -H unix:///var/run/docker.sock"**
+
+**sudo systemctl restart docker**
+
+**ps -ef | grep docker**
+
 **Install Docker Plugin to the jenkins master machine**
 
 ![Image 004](https://user-images.githubusercontent.com/37663573/73600137-478b5000-451a-11ea-93e8-970cfef5744b.png)
@@ -19,6 +27,8 @@
 **Add proper labels and check Enabled, Add docker image name**
 
 ![Image 008](https://user-images.githubusercontent.com/37663573/73600152-6c7fc300-451a-11ea-9008-4ed882f5b231.png)
+
+**root file system: /home/jenkins**
 
 **Add user as jenkins and save the settings**
 
