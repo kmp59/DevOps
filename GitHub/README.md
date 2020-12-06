@@ -31,3 +31,9 @@
 <img width="370" alt="Screen Shot 2020-01-23 at 5 02 27 PM" src="https://user-images.githubusercontent.com/37663573/73027990-8b87a200-3e02-11ea-81b0-90e88c8224d8.png">
 
 > To check/add remote source to local git: **git remote add <:GitHubURL:>**
+
+> To store your Github credentials to local one repository .gitconfig file: **git config credential.helper store**
+
+> To Store your github credentials globally for all repositories : **git config --global credential.helper store**
+
+> Run a git pull command once and enter the username and password, then it will be saved to the local .gitconfig file
